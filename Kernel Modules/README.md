@@ -11,7 +11,7 @@ lsmod
 -------------------------
 - Remove Module
 ```
-suod rmmod Varad
+sudo rmmod Varad
 make clean
 lsmod
 ```
